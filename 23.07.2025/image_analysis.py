@@ -26,10 +26,3 @@ plt.imshow(feather)
 plt.title("Feather")
 plt.axis('off')
 plt.show()
-
-# image to array
-elephat_np = np.array(elephant)
-print("Elephant Image shape",elephat_np.shape)
-
-# # grascale image
-# elephant_gray = ele
